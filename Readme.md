@@ -4,5 +4,8 @@ some description.
 
 ## subheader
 
-Watch tutorial on youtube.
+Watching basics tutorial about github
 
+## local Dev
+
+1.open index.html in browser
